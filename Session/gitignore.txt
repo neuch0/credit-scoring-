@@ -1,0 +1,18 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Кэш Python и промежуточные файлы
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Чекпоинты Jupyter / Исключения ML
+.ipynb_checkpoints/
+*.log
+
+Data/
+catboost_info/
+*.csv
+*.npy
